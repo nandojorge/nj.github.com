@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 600" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Expectant mother</title><desc id="desc">Warm editorial illustration of a pregnant woman holding her belly, in the colours of Julya.</desc>
+<defs>
+<linearGradient id="skin" x1="150" y1="100" x2="252" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#E8B79D"/><stop offset="1" stop-color="#C88B72"/></linearGradient>
+<linearGradient id="dress" x1="100" y1="280" x2="290" y2="540" gradientUnits="userSpaceOnUse"><stop stop-color="#D7A48F"/><stop offset="1" stop-color="#AD705B"/></linearGradient>
+<linearGradient id="linen" x1="190" y1="215" x2="345" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF9F3"/><stop offset="1" stop-color="#EAD6C8"/></linearGradient>
+<linearGradient id="hair" x1="140" y1="35" x2="301" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#765242"/><stop offset="1" stop-color="#4A322A"/></linearGradient>
+</defs>
+<!-- Hair behind head -->
+<path d="M184 109C145 78 169 32 226 25C275 18 310 58 305 111C323 155 289 196 293 234C298 269 323 304 308 351C285 329 264 312 249 274C222 254 194 228 180 199C164 166 162 131 184 109Z" fill="url(#hair)"/>
+<!-- Neck -->
+<path d="M211 194C214 218 230 228 250 221L263 205C242 191 241 169 241 151Z" fill="url(#skin)"/>
+<!-- Face profile looking down -->
+<path d="M201 103C184 97 179 119 178 135L163 159C157 168 165 175 173 179C171 199 183 214 204 211C232 208 252 173 250 138C249 111 226 101 201 103Z" fill="url(#skin)"/>
+<!-- Soft shading on chin -->
+<path d="M174 179C186 186 196 184 208 178C203 196 188 199 176 190Z" fill="#BC846C" opacity=".25"/>
+<!-- Dress / rounded belly -->
+<path d="M206 221C235 205 280 229 290 261C299 293 288 329 286 365C312 424 332 509 345 600H110C111 549 89 505 92 444C87 397 102 362 129 332C151 301 159 258 206 221Z" fill="url(#dress)"/>
+<path d="M152 345C117 361 89 405 87 447C84 478 106 500 135 494C174 490 221 469 237 441C247 410 228 368 197 355C185 352 167 351 152 345Z" fill="#C68B76" opacity=".43"/>
+<!-- White flowing outer cardigan -->
+<path d="M222 220C248 206 280 226 299 264C310 300 302 347 301 389C304 469 333 543 361 600H298C283 532 263 478 248 420C231 345 243 285 222 220Z" fill="url(#linen)"/>
+<path d="M219 227C198 251 187 282 174 306C144 335 117 364 108 402C92 437 100 469 119 476C145 486 178 451 198 433C218 415 223 391 213 370C229 328 241 279 245 254Z" fill="url(#linen)"/>
+<!-- Fine linen folds -->
+<path d="M258 261C270 309 262 349 269 395C274 434 285 481 306 529" stroke="#DFC5B6" stroke-width="4" stroke-linecap="round" opacity=".78"/>
+<path d="M187 329C170 365 151 386 143 419" stroke="#E2C9BC" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+<path d="M226 333C235 368 223 402 216 429" stroke="#EEE0D5" stroke-width="4" stroke-linecap="round"/>
+<!-- Upper arm gently wrapping the bump -->
+<path d="M204 331C183 346 161 373 145 401C136 417 146 436 167 431C191 426 217 410 235 416" stroke="url(#skin)" stroke-width="21" stroke-linecap="round"/>
+<!-- Forearm and hands -->
+<path d="M234 416C215 410 194 413 178 423C161 436 147 438 139 430" stroke="url(#skin)" stroke-width="18" stroke-linecap="round"/>
+<path d="M147 432C132 430 126 424 128 416C133 408 145 410 157 417" fill="#D8A38C"/>
+<!-- Forehead and hair swept across the face -->
+<path d="M175 113C169 74 199 56 233 63C270 67 286 95 281 121C270 149 257 151 244 129C235 115 237 100 231 93C209 120 185 119 175 113Z" fill="#5E4033"/>
+<path d="M244 128C273 174 291 218 296 266C300 291 299 326 313 342" stroke="#644638" stroke-width="13" stroke-linecap="round"/>
+<path d="M175 115C178 140 166 159 161 172" stroke="#705041" stroke-width="5" stroke-linecap="round"/>
+<!-- Minimal quiet features -->
+<path d="M175 157C182 159 190 156 195 150" stroke="#624337" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M177 188C186 193 194 190 200 185" stroke="#B67664" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M193 158C190 164 188 166 185 169" stroke="#AE7460" stroke-width="1.5" stroke-linecap="round"/>
+<!-- Artistic hair strands -->
+<path d="M282 134C297 172 299 206 290 231" stroke="#856050" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+<path d="M292 193C296 229 310 267 307 287" stroke="#856050" stroke-width="2.2" stroke-linecap="round" opacity=".6"/>
+</svg>
